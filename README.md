@@ -1,0 +1,1 @@
+This repository contains various examples and projects using Matplotlib, a powerful plotting library in Python. The goal is to showcase different types of plots, data visualizations, and their implementations using both Python scripts and Jupyter Notebooks.
